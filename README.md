@@ -18,7 +18,7 @@ Currently building projects in:
 ### 📌 2. COVID-19 India Tableau Dashboard
 Interactive dashboard analyzing COVID-19 trends, vaccination progress, mortality rates, and state-wise comparisons.  
 
-🔗 View Project: 
+🔗 View Project: https://github.com/yokeshgajendran/covid19-india-tableau-dashboard
 
 ---
 
