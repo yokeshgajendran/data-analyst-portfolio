@@ -15,10 +15,17 @@ Currently building projects in:
 
 ---
 
+### 📌 1. Real Estate Property Management Database (SQL Project)
+Designed relational database with ERD and implemented SQL queries.
+
+🔗 [View Project](https://github.com/yokeshgajendran/covid19-india-tableau-dashboard)
+
+---
+
 ### 📌 2. COVID-19 India Tableau Dashboard
 Interactive dashboard analyzing COVID-19 trends, vaccination progress, mortality rates, and state-wise comparisons.  
 
-🔗 View Project: https://github.com/yokeshgajendran/covid19-india-tableau-dashboard
+🔗 [View Project](https://github.com/yokeshgajendran/covid19-india-tableau-dashboard)
 
 ---
 
@@ -47,4 +54,5 @@ I am seeking data-focused roles involving:
 ## 📫 Contact
 📍 Berlin, Germany  
 📧 yokeshg20@gmail.com 
-🔗 LinkedIn: www.linkedin.com/in/yokesh-gajendran
+
+🔗 [LinkedIn](www.linkedin.com/in/yokesh-gajendran)
