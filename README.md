@@ -18,7 +18,7 @@ Currently building projects in:
 ### 📌 1. Real Estate Property Management Database (SQL Project)
 Designed relational database with ERD and implemented SQL queries.
 
-🔗 [View Project](https://github.com/yokeshgajendran/covid19-india-tableau-dashboard)
+🔗 [View Project](https://github.com/yokeshgajendran/property-management-sql)
 
 ---
 
