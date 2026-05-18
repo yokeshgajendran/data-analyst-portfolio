@@ -32,7 +32,7 @@ Interactive dashboard analyzing COVID-19 trends, vaccination progress, mortality
 ### 📌 3. E-Commerce Website Traffic Analysis — Tableau
 Interactive Tableau dashboard exploring conversion trends, bounce rates, and user engagement across traffic sources for an e-commerce client scenario. 
 
-🔗 [View Project](https://github.com/yokeshgajendran/covid19-india-tableau-dashboard)
+🔗 [View Project](https://github.com/yokeshgajendran/website-traffic-analysis-tableau)
 
 ---
 
