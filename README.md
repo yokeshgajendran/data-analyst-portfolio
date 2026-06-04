@@ -58,7 +58,7 @@ I am seeking data-focused roles involving:
 ---
 
 ## 📫 Contact
+🔗 LinkedIn: www.linkedin.com/in/yokesh-gajendran
+
 📍 Berlin, Germany  
 📧 yokeshg20@gmail.com 
-
-🔗 LinkedIn: www.linkedin.com/in/yokesh-gajendran
